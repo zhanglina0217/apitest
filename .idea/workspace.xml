@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607bd021-78af-4d1a-8f08-a95b070c826f" name="变更" comment="test" />
+    <list default="true" id="607bd021-78af-4d1a-8f08-a95b070c826f" name="变更" comment="test">
+      <change afterPath="$PROJECT_DIR$/../performance/api/myperformance_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../performance/testcase/test_myperformance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../performance/utils/schema_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../performance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../performance/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +35,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2LLj7O22YEzOEtBZAMvATW86P7a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -187,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694072880264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1694073094948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694073094949</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1694073261439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694073261439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

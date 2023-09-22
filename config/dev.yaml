@@ -1,0 +1,10 @@
+ # dev.yaml 开发环境的配置
+env_config:
+  base_url: https://performance.beta-test.rishiqing.com/
+db_config:
+  host: performance.beta-test.rishiqing.com
+  username:  13811111111
+  password:  123456
+redis_config:
+  host: performance.beta-test.rishiqing.com
+  port: 8100
